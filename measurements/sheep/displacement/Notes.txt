@@ -1,0 +1,9 @@
+The CPE measurements are read as follows
+
+col 0 = frequency
+col 1 = voltage magnitude
+col 2 = voltage phase
+col 3 = current magnitude
+col 4 = current phase
+
+Time in filename is formatted as HH:MM:SS since termination
