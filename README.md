@@ -6,8 +6,9 @@ Model of an electrode-electrolyte interface using ngSpice on Linux.
 * mpmath
 * matplotlib
 * scipy
+* ngSpice
 
 These packages can be installed on Ubuntu with the following terminal command
 
 
-    sudo apt-get install python-mpmath python-matplotlib python-scipy
+    sudo apt-get install python-mpmath python-matplotlib python-scipy ngspice
